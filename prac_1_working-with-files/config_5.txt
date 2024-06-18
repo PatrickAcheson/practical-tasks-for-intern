@@ -1,0 +1,18 @@
+# Multiple issues configuration file
+
+# Database settings
+db_host = localhost
+db_user = admin
+db_password = password  # Very weak password
+
+# Application settings
+debug_mode = true  # Debug mode enabled
+api_key = 1234abcd5678efgh  # Sensitive data in plain text
+secret_key = notsosecret  # Weak and sensitive data
+
+# Security settings
+use_https = false  # HTTPS not enabled
+log_level = debug  # Debug logging in production
+
+# Additional settings
+backup_enabled = false  # No backups

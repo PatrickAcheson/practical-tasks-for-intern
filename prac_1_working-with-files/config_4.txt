@@ -1,0 +1,20 @@
+# Secure configuration file with intentional issues for learning
+
+# Database settings
+db_host = secure-db-server.com
+db_user = db_admin
+db_password = extremelysecurepassword456
+
+# Application settings
+debug_mode = false
+api_key = 321fedcba0987654  # Sensitive data stored securely
+
+# Security settings
+use_https = true
+log_level = error  # Only log errors
+
+# Additional settings
+backup_enabled = true
+backup_frequency = weekly
+firewall_enabled = true
+logging_enabled = false  # Logging disabled

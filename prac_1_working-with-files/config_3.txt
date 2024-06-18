@@ -1,0 +1,19 @@
+# Complex configuration file
+
+# Database settings
+db_host = 127.0.0.1
+db_user = user
+db_password = securepassword123  # Strong password
+
+# Application settings
+debug_mode = false
+api_key = 0987654321fedcba  # Sensitive data
+secret_key = supersecretkey  # Another sensitive data
+
+# Security settings
+use_https = true  # Secure configuration
+log_level = info
+
+# Additional settings
+backup_enabled = true
+backup_frequency = daily

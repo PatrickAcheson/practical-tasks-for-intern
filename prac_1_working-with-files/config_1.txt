@@ -1,0 +1,13 @@
+# Basic configuration file
+
+# Database settings
+db_host = localhost
+db_user = admin
+db_password = admin123  # Default password
+
+# Application settings
+debug_mode = true
+api_key = 1234567890abcdef  # Sensitive data
+
+# Security settings
+use_https = false  # Insecure configuration

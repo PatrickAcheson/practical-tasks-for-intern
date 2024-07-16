@@ -41,7 +41,8 @@ The idea will be to create some sort of IP Lookup Tool that is command-line appl
 
 1. **User Input**:
    - The tool should prompt the user to input an IP address.
-   - The tool should validate the entered IP address format.
+   - After details are printed, option to restart/enter new IP.
+   - The tool should validate the entered IP address format, if not valid prompted to re-enter.
 
 2. **API Integrations**:
    - The tool should fetch IP information from IPinfo, including geolocation, ASN, and carrier data.

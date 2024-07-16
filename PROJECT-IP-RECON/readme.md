@@ -58,6 +58,9 @@ The idea will be to create some sort of IP Lookup Tool that is command-line appl
 4. **Configuration**:
    - The tool should allow users to configure their API keys securely, either through environment variables or a configuration file.
 
+5. **Record Save**
+   - If IP address conclusion is deemed Malicious, write a record in into a database or file in appropriate file format.
+
 ## Non-Functional Requirements
 
 1. **Performance**:

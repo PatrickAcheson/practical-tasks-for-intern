@@ -2,10 +2,12 @@
 
 ## Research
 
-Before starting on the project, I would reccomend to spend time researching to familiarize yourself with the following topics:
+Before starting on the project, I would recommend to spend time researching to familiarize yourself with the following topics:
 
 1. **IP Address Basics**:
    - Understanding IP addresses (IPv4 vs IPv6)
+   - Understand IP Classed (A, B, C etc)
+   - Public vs Private and NAT (Network Address Translation)
    - Common uses and significance in cybersecurity
 
 2. **APIs and RESTful Services**:

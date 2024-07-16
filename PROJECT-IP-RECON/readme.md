@@ -43,6 +43,7 @@ The idea will be to create some sort of IP Lookup Tool that is command-line appl
    - The tool should prompt the user to input an IP address.
    - After details are printed, option to restart/enter new IP.
    - The tool should validate the entered IP address format, if not valid prompted to re-enter.
+   - Have it identify if IP address in Public or Private.
 
 2. **API Integrations**:
    - The tool should fetch IP information from IPinfo, including geolocation, ASN, and carrier data.
